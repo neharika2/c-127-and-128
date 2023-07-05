@@ -1,0 +1,19 @@
+.heading{
+    color:white;
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+    }
+    .NOTE{
+        color:whitesmoke;
+        font-size: 15px;
+    }
+    canvas{
+        border:5px dashed black;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-success{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
